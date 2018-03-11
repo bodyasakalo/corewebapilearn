@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoft.NetCore.Learn.WebAPI.General", "Exoft.NetCore.Learn.WebAPI.General\Exoft.NetCore.Learn.WebAPI.General.csproj", "{74535FDC-5F65-43A7-BA9D-37864A91EB24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Purpose and general info", "1. Purpose and general info", "{3CA54494-1E49-439F-A642-727D88CB3D73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74535FDC-5F65-43A7-BA9D-37864A91EB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74535FDC-5F65-43A7-BA9D-37864A91EB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74535FDC-5F65-43A7-BA9D-37864A91EB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74535FDC-5F65-43A7-BA9D-37864A91EB24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{74535FDC-5F65-43A7-BA9D-37864A91EB24} = {3CA54494-1E49-439F-A642-727D88CB3D73}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9DF6B8-3E6C-4E6D-BAAA-BD2203C87724}
+	EndGlobalSection
+EndGlobal
