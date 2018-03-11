@@ -2,6 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/.vs/Exoft.NetCore.Learn/v15
-/src/Exoft.NetCore.Learn.WebAPI.General/bin/Debug/netcoreapp2.0
-/src/Exoft.NetCore.Learn.WebAPI.General/obj
+.vs
+v15
+bin
+obj
+*.suo

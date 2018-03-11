@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoft.NetCore.Learn.WebAPI.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Purpose and general info", "1. Purpose and general info", "{3CA54494-1E49-439F-A642-727D88CB3D73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoft.NetCore.Learn.WebAPI.Controllers", "Exoft.NetCore.Learn.WebAPI.Controllers\Exoft.NetCore.Learn.WebAPI.Controllers.csproj", "{2E491FA6-F022-4CD5-A483-13D0B9C32F5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Controllers and request handling", "2. Controllers and request handling", "{7FA46F71-F804-41F5-B7F1-B33C2F0CAC9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{74535FDC-5F65-43A7-BA9D-37864A91EB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74535FDC-5F65-43A7-BA9D-37864A91EB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74535FDC-5F65-43A7-BA9D-37864A91EB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E491FA6-F022-4CD5-A483-13D0B9C32F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E491FA6-F022-4CD5-A483-13D0B9C32F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E491FA6-F022-4CD5-A483-13D0B9C32F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E491FA6-F022-4CD5-A483-13D0B9C32F5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{74535FDC-5F65-43A7-BA9D-37864A91EB24} = {3CA54494-1E49-439F-A642-727D88CB3D73}
+		{2E491FA6-F022-4CD5-A483-13D0B9C32F5A} = {7FA46F71-F804-41F5-B7F1-B33C2F0CAC9C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CE9DF6B8-3E6C-4E6D-BAAA-BD2203C87724}
